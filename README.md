@@ -22,7 +22,7 @@ The VLF range is a fascinating portion of the RF spectrum, encompassing frequenc
 - A computer with a microphone or line-in jack. Soundcard should at least be able to operate within 48khz.
 - [Spectrum Lab Software](https://www.qsl.net/dl4yhf/spectra1.html)
 - Python 3.x
-- Required Python Libraries: pyrtlsdr, numpy, matplotlib, scipy
+- Required Python Libraries: pyrtlsdr==0.2.91, numpy, matplotlib, scipy
 
 ## Setup Guide
 
