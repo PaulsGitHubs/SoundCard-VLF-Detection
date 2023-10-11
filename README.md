@@ -1,4 +1,4 @@
-# Python Prototye - Automatic Radio Frequency Signal Classification with Local Data Base.
+# Python Prototype - Automatic Radio Frequency Signal Classification with Local Data Base.
 - Fully Python with a PyQt interface
 - Data base with signals (using just wikisignal for now). Would like to add a lot of natural and machine rf data as well as more signals for the classifcation model.
 - Real time Signal Classifacation ML from IQ samples (Still working on)
