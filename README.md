@@ -1,8 +1,8 @@
 # Python Prototye - Automatic Radio Frequency Signal Classification with Local Data Base.
-- Python and PyQt interface
-- Data base with signals (using just wikisignal for now)
+- Fully Python with a PyQt interface
+- Data base with signals (using just wikisignal for now). Would like to add a lot of natural and machine rf data as well as more signals for the classifcation model.
 - Real time Signal Classifacation ML from IQ samples (Still working on)
-- MultiBand monitoring (Implementing soon)
+- MultiBand monitoring (Implementing soon, will be capped based on device you use, will try to keep it open and scalable for different devices that can handle larger bandwidth).
 - PSD Radio Scanner
 - Optimizing for RLT and HACKRF
 - Ideally Would like to be able to integrate the workflow of different machines in processing different bands (cloud computing) and use gpu.
