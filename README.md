@@ -2,6 +2,8 @@
 Use your computers sound card to detect radio frequencies within the VLF range
 
 *Sample visualization of VLF signals captured using a sound card.*
+![Screenshot 2023-10-11 024638](https://github.com/PaulsGitHubs/SoundCard-VLF-Detection/assets/102178068/7bec3ec5-15d8-4b82-95b2-60b376215035)
+![Screenshot 2023-10-11 024618](https://github.com/PaulsGitHubs/SoundCard-VLF-Detection/assets/102178068/d7c10560-1385-4b3a-b716-e44614cd9f5e)
 
 ## Table of Contents
 
