@@ -1,5 +1,5 @@
 # Python Prototype - Automatic Radio Frequency Signal Classification with Local Data Base.
-- We want it to be compatible and work simulataniously with multiple devices connected at once. Ideally 2-3 hackrfs, but we tried using 1 hackrf and 1 rtl sdr, because we could not get a 2nd hack rf.
+- We want it to be compatible and work simultaniously with multiple devices connected at once. Ideally 2-3 hackrfs, but we tried using 1 hackrf and 1 rtl sdr, because we could not get a 2nd hack rf.
 - Fully Python with a PyQt interface
 - Data base with signals (using just wikisignal for now). Would like to add a lot of natural and machine rf data as well as more signals for the classifcation model.
 - Real time Signal Classifacation ML from IQ samples (Still working on)
